@@ -33,9 +33,6 @@ void gerarCodigosHuffman(NoHuffmann* raiz, string codigo, unordered_map<string, 
     if(!raiz->palavra.empty()){
         codigos[raiz->palavra] = codigo;
     }
-
-    gerarCodigosHuffman(raiz->esq, codigo + "1", codigos);
-    gerarCodigosHuffman(raiz->dir, codigo + "0", codigos);
 }
 
 string Codificar(const string& palavra, unordered_map<string, string>& codigos) {
