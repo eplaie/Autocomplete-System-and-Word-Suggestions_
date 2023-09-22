@@ -1,0 +1,84 @@
+A palavra filosofia foi encontrada no arquivo filosofia.txt com frequencia 19
+-----
+
+
+-----
+
+
+-----
+
+
+-----
+
+A palavra filosofia foi encontrada no arquivo filosofia2.txt com frequencia 19
+-----
+
+
+-----
+
+
+-----
+
+
+-----
+
+A palavra teoria foi encontrada no arquivo filosofia.txt com frequencia 176
+-----
+
+
+-----
+
+
+-----
+
+
+-----
+
+A palavra teoria foi encontrada no arquivo filosofia2.txt com frequencia 192
+-----
+
+
+-----
+
+
+-----
+
+
+-----
+
+A palavra política foi encontrada no arquivo filosofia.txt com frequencia 19
+-----
+
+
+-----
+
+
+-----
+
+
+-----
+
+A palavra política foi encontrada no arquivo filosofia2.txt com frequencia 19
+-----
+
+
+-----
+
+
+-----
+
+
+-----
+
+A palavra política foi encontrada no arquivo politica.txt com frequencia 198
+-----
+
+
+-----
+
+
+-----
+
+
+-----
+
