@@ -73,7 +73,7 @@ A função `Tree *CreateTree` cria uma árvore AVL.
 A função `insertTree` Esta função insere um novo nó na árvore AVL. 
 
 
-## HUFMAN
+## HUFFMAN
 
 Foi usada uma fila de prioridade `priority_queue`, para armazenar os nós e os ponteiros.
 
